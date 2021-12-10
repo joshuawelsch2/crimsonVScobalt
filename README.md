@@ -51,3 +51,29 @@ I monitored the exploit and attempts from alerts that I set in Kibana. Those ale
 [Copy of Red vs Blue Team Project slides FINAL JW.pdf](https://github.com/joshuawelsch2/crimsonVScobalt/files/7689761/Copy.of.Red.vs.Blue.Team.Project.slides.FINAL.JW.pdf)
 
 <embed src="https://github.com/joshuawelsch2/crimsonVScobalt/files/7689761/Copy.of.Red.vs.Blue.Team.Project.slides.FINAL.JW.pdf" type="application/pdf">
+
+![1](https://user-images.githubusercontent.com/82197485/145510649-1d016ee9-3a4e-448f-8ad9-ad8e3d9e5180.jpg)
+![2](https://user-images.githubusercontent.com/82197485/145510733-442ce0f6-23b5-425f-90bd-55e6c718c9fe.jpg)
+![3](https://user-images.githubusercontent.com/82197485/145510664-a5d29238-fbb3-4cb5-851f-57b64e125f79.jpg)
+![4](https://user-images.githubusercontent.com/82197485/145510665-c35dd2c8-7c7d-4b03-9374-40964ec0b85d.jpg)
+![5](https://user-images.githubusercontent.com/82197485/145510666-f811233a-99e8-4f01-8f05-aaca82ada115.jpg)
+![6](https://user-images.githubusercontent.com/82197485/145510667-269a9926-df0d-4879-8d2b-761ba10480bf.jpg)
+![7](https://user-images.githubusercontent.com/82197485/145510668-4294955b-d155-40eb-bde2-3b61fc80951d.jpg)
+![8](https://user-images.githubusercontent.com/82197485/145510670-512d3d5f-78d7-4dea-b77f-8303a6161f7e.jpg)
+![9](https://user-images.githubusercontent.com/82197485/145510671-917ff9af-d6f0-4a1f-8c74-b7b858462449.jpg)
+![10](https://user-images.githubusercontent.com/82197485/145510673-4cb4b029-a130-45e0-94ff-b40cc4a70e45.jpg)
+![11](https://user-images.githubusercontent.com/82197485/145510674-f0a3803f-885e-4079-81aa-66ff518e6fcc.jpg)
+![12](https://user-images.githubusercontent.com/82197485/145510675-13f3ba5c-c345-44ed-8f5f-c972020a01b6.jpg)
+![13](https://user-images.githubusercontent.com/82197485/145510676-7e4a5ccf-2738-41dd-a549-098ff20efdb9.jpg)
+![14](https://user-images.githubusercontent.com/82197485/145510677-174bfb43-f737-4892-bdb0-cc4401921c4c.jpg)
+![15](https://user-images.githubusercontent.com/82197485/145510678-2967c75a-0354-4a66-8908-9bb1d2ce04ea.jpg)
+![16](https://user-images.githubusercontent.com/82197485/145510679-51870dd7-52bd-4c19-8faf-af4c89b91450.jpg)
+![17](https://user-images.githubusercontent.com/82197485/145510680-b584a1aa-f128-4a34-a2b4-9aadb2b1781d.jpg)
+![18](https://user-images.githubusercontent.com/82197485/145510681-be59c7f0-d1d4-41dc-829a-288bc89ae109.jpg)
+![19](https://user-images.githubusercontent.com/82197485/145510682-3b3d632d-361c-4ac2-bea6-cdb10406dcd0.jpg)
+![20](https://user-images.githubusercontent.com/82197485/145510683-5552e30b-2c27-41bb-b707-14fbcdeb86dd.jpg)
+![21](https://user-images.githubusercontent.com/82197485/145510684-488624a2-f73f-428c-8a0c-8e4a59553975.jpg)
+![22](https://user-images.githubusercontent.com/82197485/145510685-ed259d75-87e3-4569-afcd-70af87896112.jpg)
+![23](https://user-images.githubusercontent.com/82197485/145510686-08333056-4296-475f-a684-095939ae70d4.jpg)
+
+
