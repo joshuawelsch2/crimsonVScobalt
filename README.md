@@ -3,7 +3,7 @@ Red vs. Blue team project for the Vanderbilt Cybersecurity Bootcamp
 
 Used nmap and discovered that 192.168.1.105 had an http port open. Concluded that this must be the capstone box which housed the web server. 
 
-![Full real nmap logged IP addresses.jpg]
+!(Full real nmap logged IP addresses.jpg)
 
 Used the dirb tool to locate the hidden directory on the target site. 
 
