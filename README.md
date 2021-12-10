@@ -48,5 +48,5 @@ Success!
 
 I monitored the exploit and attempts from alerts that I set in Kibana. Those alerts, metrics, and recommended mitigations can be found in the second half of the following powerpoint, which as a whole is a soft copy which could be presented to a client. 
 
-[Copy of Red vs Blue Team Project slides FINAL JW.pdf](https://github.com/joshuawelsch2/crimsonVScobalt/files/7689761/Copy.of.Red.vs.Blue.Team.Project.slides.FINAL.JW.pdf)
+![Copy of Red vs Blue Team Project slides FINAL JW.pdf](https://github.com/joshuawelsch2/crimsonVScobalt/files/7689761/Copy.of.Red.vs.Blue.Team.Project.slides.FINAL.JW.pdf)
 
