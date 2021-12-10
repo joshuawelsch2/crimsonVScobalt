@@ -50,4 +50,4 @@ I monitored the exploit and attempts from alerts that I set in Kibana. Those ale
 
 [Copy of Red vs Blue Team Project slides FINAL JW.pdf](https://github.com/joshuawelsch2/crimsonVScobalt/files/7689761/Copy.of.Red.vs.Blue.Team.Project.slides.FINAL.JW.pdf)
 
-<embed src="Copy of Red vs Blue Team Project slides FINAL JW.pdf" type="application/pdf">
+<embed src="crimsonVScobalt/Copy of Red vs Blue Team Project slides FINAL JW.pdf" type="application/pdf">
