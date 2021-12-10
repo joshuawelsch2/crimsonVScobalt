@@ -1,5 +1,5 @@
 # crimsonVScobalt
-Red vs. Blue team project for the Vanderbilt Cybersecurity Bootcamp
+Red vs. Blue team project for the Vanderbilt Cybersecurity Bootcamp.
 
 Used nmap and discovered that 192.168.1.105 had an http port open. Concluded that this must be the capstone box which housed the web server. 
 
